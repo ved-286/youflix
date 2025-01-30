@@ -1,0 +1,15 @@
+{
+  "name": "youflix",
+  "version": "1.0.0",
+  "description": "youtube backend and tweeter backend project and my first project of backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "ved nakrani",
+  "license": "ISC"
+}
